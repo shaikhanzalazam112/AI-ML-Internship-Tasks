@@ -22,19 +22,6 @@ This internship focuses on building practical skills in Artificial Intelligence 
 
 ---
 
-### 🚧 Task 3: Heart Disease Prediction (Coming Soon)
-- Data preprocessing
-- Classification model (Logistic Regression / Decision Tree)
-- Model evaluation (accuracy, confusion matrix, ROC curve)
-
----
-
-### 🚧 Task 6: House Price Prediction (Coming Soon)
-- Regression model
-- Feature analysis
-- Price prediction using machine learning
-
----
 
 ## 🛠️ Tools & Libraries Used
 - Python
@@ -53,8 +40,7 @@ To gain hands-on experience in AI/ML concepts including data preprocessing, visu
 
 ## 📂 Repository Structure
 - Task1_Iris.ipynb
-- Task3_HeartDisease.ipynb (future)
-- Task6_HousePrice.ipynb (future)
+
 
 ---
 
