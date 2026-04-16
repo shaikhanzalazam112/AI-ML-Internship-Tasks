@@ -20,10 +20,11 @@ This internship focuses on building practical skills in Artificial Intelligence 
 - Created visualizations using seaborn and matplotlib
 - Used scatter plots, histograms, and box plots
 
-### 🚧 Task 2: Heart Disease Prediction (Coming Soon)
-- Data preprocessing
-- Classification model (Logistic Regression / Decision Tree)
-- Model evaluation (accuracy, confusion matrix, ROC curve)
+### ✅ Task 2: Stock Price Prediction
+- Used Yahoo Finance API (yfinance)
+- Applied Linear Regression model
+- Predicted next-day closing price
+- Compared actual vs predicted prices using plots
 
 
 
@@ -44,7 +45,7 @@ To gain hands-on experience in AI/ML concepts including data preprocessing, visu
 
 ## 📂 Repository Structure
 - Task1_Iris.ipynb
-- Task2_HeartDisease.ipynb (future)
+- Task2_Stock_Price.ipynb
 
 
 ---
