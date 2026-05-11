@@ -35,6 +35,14 @@ This internship focuses on building practical skills in Artificial Intelligence 
 - Evaluated using accuracy, confusion matrix, and ROC curve
 - Identified important features affecting prediction
 
+### Task 4: Customer Churn Prediction Pipeline
+- Built end-to-end ML pipeline using Scikit-learn
+- Used ColumnTransformer and Pipeline API
+- Applied preprocessing for numerical and categorical data
+- Trained Logistic Regression and Random Forest models
+- Performed hyperparameter tuning using GridSearchCV
+- Exported trained model using joblib
+
 ## Tools & Libraries Used
 - Python
 - Pandas
@@ -43,6 +51,7 @@ This internship focuses on building practical skills in Artificial Intelligence 
 - Seaborn
 - Scikit-learn
 - yfinance
+- joblib
 
 ## Results
 - Successfully built ML models for classification and regression
@@ -59,6 +68,7 @@ To gain hands-on experience in AI/ML concepts including data preprocessing, visu
 - Task1_Iris.ipynb
 - Task2_Stock_Price.ipynb
 - Task_3_Heart_Disease_Prediction.ipynb
+- Task4_Customer_Churn_Pipeline.ipynb
 
 ---
 
