@@ -9,6 +9,16 @@ Anzal Shaikh
 This repository contains AI/ML internship tasks completed at DevelopersHub Corporation.
 
 ---
+🎯 Objective
+
+To gain hands-on experience in:
+
+Data preprocessing
+Exploratory Data Analysis (EDA)
+Machine Learning
+Deep Learning
+Model evaluation and deployment concepts
+
 
 ## Overview
 This internship focuses on building practical skills in Artificial Intelligence and Machine Learning using Python. It includes data analysis, visualization, and machine learning model building.
@@ -43,6 +53,17 @@ This internship focuses on building practical skills in Artificial Intelligence 
 - Performed hyperparameter tuning using GridSearchCV
 - Exported trained model using joblib
 
+- 🏠 Task 5: Multimodal Housing Price Prediction
+Combined:
+📊 Tabular housing data
+🖼️ House room images
+Built CNN for image feature extraction
+Applied multimodal feature fusion
+Trained regression model using TensorFlow/Keras
+Evaluated using:
+MAE
+RMSE
+
 ## Tools & Libraries Used
 - Python
 - Pandas
@@ -52,11 +73,20 @@ This internship focuses on building practical skills in Artificial Intelligence 
 - Scikit-learn
 - yfinance
 - joblib
+- TensorFlow / Keras
+- OpenCV
+
 
 ## Results
 - Successfully built ML models for classification and regression
 - Achieved good accuracy in heart disease prediction
 - Learned data preprocessing, visualization, and evaluation techniques
+- 📊 Results
+✅ Successfully built machine learning and deep learning models
+✅ Performed data preprocessing and visualization
+✅ Learned classification and regression techniques
+✅ Built end-to-end ML pipelines
+✅ Explored multimodal deep learning concepts
 ---
 
 ## Objective
@@ -69,6 +99,7 @@ To gain hands-on experience in AI/ML concepts including data preprocessing, visu
 - Task2_Stock_Price.ipynb
 - Task_3_Heart_Disease_Prediction.ipynb
 - Task4_Customer_Churn_Pipeline.ipynb
+- Task_5_Multimodal_ML_–_Housing_Price_Prediction_Using_Images_+_Tabular_Data.ipynb
 
 ---
 
