@@ -64,6 +64,30 @@ Evaluated using:
 MAE
 RMSE
 
+### 🤖 Task 4: Context-Aware RAG Chatbot (LangChain + Vector Database + LLM)
+
+- Built a **Retrieval-Augmented Generation (RAG) chatbot**
+- Used custom text corpus (AI/ML knowledge base)
+- Converted text into embeddings using Sentence Transformers
+- Stored embeddings in ChromaDB vector database
+- Implemented semantic search for relevant document retrieval
+- Integrated FLAN-T5 language model for response generation
+- Added context-aware question answering system
+- Developed interactive chatbot interface using Gradio / Streamlit
+
+#### 🧠 Key Concepts Used:
+- Retrieval-Augmented Generation (RAG)
+- Vector Embeddings
+- Semantic Search
+- Large Language Model (LLM) integration
+- Context-aware conversational AI
+
+#### ⚙️ Workflow:
+User Question → Embedding Search → Vector DB Retrieval → Context Formation → LLM Response → Chatbot Answer
+
+#### 📌 Outcome:
+A fully working AI chatbot capable of answering questions from custom documents with contextual understanding.
+
 ## Tools & Libraries Used
 - Python
 - Pandas
